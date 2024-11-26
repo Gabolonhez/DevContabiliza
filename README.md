@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/DevContabiliza-%#050224?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/DevContabiliza-%050224?style=for-the-badge&logo=ghost)
 
 # DevContabiliza
 
