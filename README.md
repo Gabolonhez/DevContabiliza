@@ -1,6 +1,7 @@
 ![Badge](https://img.shields.io/badge/DevContabiliza-%050224?style=for-the-badge&logo=ghost)
 
 # DevContabiliza
+![image](https://github.com/user-attachments/assets/84f3b4d8-85e7-41db-87ea-d34ccc63f669)
 
 ## 📑 Descrição
 
