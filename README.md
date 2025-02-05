@@ -10,26 +10,25 @@ Aplicativo no Android Studio, utilizando a linguagem Java, que auxilia estudante
 
 ## 🎯 Funcionalidades
 
-- [x] `Cadastro de usuário:`: O aplicativo deve permitir que o usuário cadastre-se com nome, senha, linguagem de estudo e metas diárias para estudar. <br>
-- [x] `Login de usuário:`: O aplicativo deve validar as credenciais de login para permitir o acesso à conta do usuário. <br>
-- [X] `Registro diário de estudo:`: Deve permitir que o usuário registre se estudou no dia e o conteúdo do estudo. <br>
-- [X] `Contagem de dias estudados:`: O sistema deve contabilizar quantos dias o usuário estudou e exibir a sequência de dias consecutivos. <br>
-- [] `Visualização do progresso`:  O aplicativo deve exibir o número total de dias estudados, a sequência de dias e uma lista do que foi estudado. <br>
-- [] `Ranking de usuários:` Deve mostrar a posição dos usuários com base em seus dias estudados, considerando a frequência ou sequência de dias de estudo. <br>
-
+- [x] Permite que o usuário cadastre-se com nome, senha, linguagem de estudo e metas diárias para estudar. <br>
+- [x] Permite realizar login para acessar a conta do usuário. <br>
+- [x] Permite que o usuário registre se estudou no dia e o conteúdo do estudo. <br>
+- [x] Contabiliza quantos dias o usuário estudou e exibir a sequência de dias consecutivos. <br>
+- [x] Exibe o número total de dias estudados, a sequência de dias e uma lista do que foi estudado. <br>
+- [x] Mostra um ranking dos usuários com base em seus dias estudados, considerando a frequência ou sequência de dias de estudo. <br>
 
 ## 💻 Tecnologias 
 
-`Java`: Linguagem utilizada para desenvolver a lógica de toda a aplicação
+- `Android studio`
+- `Java`
+- `XML`
+
 
 ## 🛠️ Etapas realizadas:
 
 ```
 Planejamento > Código > Construção > Teste > Lançamento > Implantação > Operação > Monitoração 
 ```
-
-## Instalação e utilização:
-
 
 
 ## 👨‍💻 Colaboradores:
